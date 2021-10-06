@@ -17,7 +17,7 @@ function Projects(){
                     text='Collaborated with a team of 3 people to develop casino games such as Blackjack and War. We used C# and object-oriented programming, along with images and graphics, to display an effective simulation of the game'
                     />
                     <ProjectItem
-                    link='https://kevinmaweatherapp.netlify.app/'
+                    link='https://weatherapp.kevin7ma.ca/'
                     src='images/weather.jpg'
                     title='Weather App'
                     date='January 2021'
@@ -25,6 +25,7 @@ function Projects(){
                     '
                     text2='Click me to visit Weather App!'
                     />
+
                 </ul>
                 <ul className="project__items">
                     <ProjectItem

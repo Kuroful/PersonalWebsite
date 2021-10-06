@@ -4,7 +4,6 @@ import './Personal.css'
 
 function Personal(){
     return (
-
         <div className='personal-container'>
             <video src="/images/video-1.mp4" autoPlay loop muted/>
             <img src="/images/KevinMa.jpg" id="Kevin" alt=''/>
@@ -13,7 +12,7 @@ function Personal(){
             <h3>Third Year Computer Science Co-op Student</h3>
             <h2 class='subtitle'>About Me!</h2> 
             <p>My name is Kevin Ma, a third year student completing a Bachelor of Science (Computer Science) 
-            degree at Ryerson University. I developed this website using HTML5/CSS3, JavaScript, using the React framework.
+            degree at Ryerson University. I developed this website using HTML5, CSS3, and JavaScript by using the React framework.
             I am also familiar with building applications using Python, Java, and C#. </p>
         </div> 
     )
