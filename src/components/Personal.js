@@ -9,10 +9,11 @@ function Personal(){
             <img src="/images/KevinMa.jpg" id="Kevin" alt=''/>
             <h1>Hello, I'm Kevin Ma</h1>
             <h2>Ryerson University</h2>
-            <h3>Third Year Computer Science Co-op Student</h3>
+            <h3>Fourth Year Computer Science Co-op Student</h3>
             <h2 class='subtitle'>About Me!</h2> 
-            <p>My name is Kevin Ma, a third year student completing a Bachelor of Science (Computer Science) 
-            degree at Ryerson University. I developed this website using HTML5, CSS3, and JavaScript by using the React framework.
+            <p>My name is Kevin Ma, a fourth year student completing a Bachelor of Science (Computer Science) 
+            degree at Ryerson University. I developed this website using HTML5, CSS3, and JavaScript by using the React.js framework.
+            I can use express.js and mongoDB for backend applications as well!
             I am also familiar with building applications using Python, Java, and C#. </p>
         </div> 
     )
