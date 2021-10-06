@@ -13,7 +13,7 @@ function Personal(){
             <h2 class='subtitle'>About Me!</h2> 
             <p>My name is Kevin Ma, a fourth year student completing a Bachelor of Science (Computer Science) 
             degree at Ryerson University. I developed this website using HTML5, CSS3, and JavaScript by using the React.js framework.
-            I can use express.js and mongoDB for backend applications as well!
+            I can use Express.js and MongoDB for backend applications as well!
             I am also familiar with building applications using Python, Java, and C#. </p>
         </div> 
     )
