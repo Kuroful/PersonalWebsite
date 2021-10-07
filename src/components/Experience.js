@@ -14,9 +14,8 @@ function Experience(){
                     location='Rogers Communications'
                     title='IT Asset Analyst Co-op'
                     date='May. 2021 - Aug. 2021'
-                    text1='· Identified client issues and performed troubleshooting via remote desktop access'
-                    text2='· Assisted and supported clients with the set-up of technologies and addressed potential concerns' 
-                    text3='· Applied excellent customer service skills through step-by-step process to address IT issues'
+                    text1='· Developed a programming script in Visual Basic to store purchase requisitions, streamlining the process that resulted in the completion of 450+ software requests in 4 months'
+                    text2='· Managed and reassigned various Rogers software-related licenses to reduce wasteful spending' 
                     />
                     <ExperienceItem 
                     src='images/Ontario.png'
